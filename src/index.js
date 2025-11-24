@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { sendToVercelAnalytics } from './vitals';
+import { gsap } from "gsap";
 
 ReactDOM.render(
   <React.StrictMode>
